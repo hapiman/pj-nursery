@@ -17,7 +17,8 @@
 
 ### 兴趣爱好
 - 下厨做饭
-- 打篮球 跑步
+- 打篮球
+- 跑步
 
 ### 技术栈
 - 后端 能够使用`nodejs` `pm2` `express` `nginx` `redis` `mongodb` `mysql` 进行相应的程序开发和部署
@@ -31,19 +32,54 @@
 
 **北京博大精深信息技术有限公司  2015.5-2016.6  nodejs工程师**
 
-* 1.**好项目CMS的程序开发和维护**
+1.**好项目CMS的程序开发和维护**
+
 相关技术：`mysql`,`nodejs`,`ejs`,`express`
-* 2.**投一手微信公众号开发**
+相关截图：![http://7xt3gq.com1.z0.glb.clouddn.com/hxm23.pic_hd.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/hxm25.pic_hd.jpg)
+![http://7xt3gq.com1.z0.glb.clouddn.com/hxm24.pic_hd.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/hxm25.pic_hd.jpg)
+![http://7xt3gq.com1.z0.glb.clouddn.com/hxm25.pic_hd.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/hxm25.pic_hd.jpg)
+
+2.**投一手微信公众号开发**
+
 相关技术：`mysql`,`nodejs`,`ejs`, `redis`,`express`等
-* 3.**投一手微信后台开发**
+相关截图：
+![http://7xt3gq.com1.z0.glb.clouddn.com/touys3.pic.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/touys3.pic.jpg)
+
+![http://7xt3gq.com1.z0.glb.clouddn.com/touys6.pic.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/touys6.pic.jpg)
+
+![http://7xt3gq.com1.z0.glb.clouddn.com/touys12.pic.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/touys12.pic.jpg)
+
+![http://7xt3gq.com1.z0.glb.clouddn.com/touys4.pic.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/touys4.pic.jpg)
+
+3.**投一手微信后台开发**
 相关技术：`mysql`,`nodejs`, `express`,`angularjs`单页面应用。
+相关截图：![http://7xt3gq.com1.z0.glb.clouddn.com/29.pic_hd.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/29.pic_hd.jpg)
+![http://7xt3gq.com1.z0.glb.clouddn.com/32.pic_hd.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/32.pic_hd.jpg)
+![http://7xt3gq.com1.z0.glb.clouddn.com/35.pic_hd.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/35.pic_hd.jpg)
+
 
 **以前，我是一个游戏客户端工程师。。。**
 
 #### 个人项目
 
-* 1.**三余闲读微信公众号**，主要是基于LBS的P2P图书分享应用
-使用相关技术：`mongodb` `mongoose` `bluebird` `nodejs` `express` `react` `百度地图` `前后端分离`
-* 2.个人博客，已下线
+1.**三余闲读微信公众号**，主要是基于LBS的P2P图书分享应用
+相关技术：`mongodb` `mongoose` `bluebird` `nodejs` `express` `react` `百度地图` `前后端分离`
+相关截图：
+![http://7xt3gq.com1.z0.glb.clouddn.com/sanyu5.pic.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/sanyu5.pic.jpg)
+
+![http://7xt3gq.com1.z0.glb.clouddn.com/sanyu7.pic.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/sanyu7.pic.jpg)
+
+![http://7xt3gq.com1.z0.glb.clouddn.com/sanyu20.pic.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/sanyu20.pic.jpg)
+
+![http://7xt3gq.com1.z0.glb.clouddn.com/sanyu19.pic.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/sanyu19.pic.jpg)
+
+![http://7xt3gq.com1.z0.glb.clouddn.com/sanyu11.pic.jpg](http://7xt3gq.com1.z0.glb.clouddn.com/sanyu11.pic.jpg)
+
+2.个人博客，已下线
+
+### 求职意向
+微信公众号开发 后端工程师  前端工程师
 
 ### 其他
+* 希望团队靠谱，能够和靠谱的人一起创造
+* 支持有意义的加班
